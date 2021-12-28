@@ -19,6 +19,11 @@
   </p>
 </p>
 
+## Used Technologies
+<ul>
+  <li>Java Spring Boot</li>
+</ul>
+
 ## Author
 Kenan Yasin SARIGÜL- <a href="https://github.com/kenanyasinsarigul/">Github</a>
 
