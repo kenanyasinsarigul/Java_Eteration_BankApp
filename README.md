@@ -23,7 +23,7 @@
 <ul>
   <li>Java Spring Boot</li>
   <li>Postgre Sql</li>
-  <li>Intellij</li>
+  <li>Intellij IDE</li>
   <li>Postman</li>
 </ul>
 
