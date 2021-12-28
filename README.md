@@ -22,6 +22,9 @@
 ## Used Technologies
 <ul>
   <li>Java Spring Boot</li>
+  <li>Postgre Sql</li>
+  <li>Intellij</li>
+  <li>Postman</li>
 </ul>
 
 ## Author
